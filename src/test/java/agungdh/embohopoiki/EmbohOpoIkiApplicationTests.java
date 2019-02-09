@@ -1,0 +1,17 @@
+package agungdh.embohopoiki;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class EmbohOpoIkiApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
+
